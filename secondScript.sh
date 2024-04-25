@@ -1,0 +1,1 @@
+echo "The value of the variable in the other script is: $message"

@@ -1,0 +1,17 @@
+total 64
+drwxrwxr-x  5 gian gian  4096 feb 24 10:57 .
+drwxrwxr-x 18 gian gian  4096 abr 10 22:11 ..
+-rwxrwxr-x  1 gian gian 11121 dic 28 21:45 allScripts.sh
+drwxrwxr-x  2 gian gian  4096 dic 28 21:45 bash
+-rwxrwxr-x  1 gian gian     0 may 25 23:13 error.txt
+drwxrwxr-x  2 gian gian  4096 dic 28 21:45 examples
+-rwxrwxr-x  1 gian gian    74 may 25 23:11 file.txt
+-rwxrwxr-x  1 gian gian  2046 ago 15  2021 helloScript.sh
+-rwxrwxr-x  1 gian gian    51 dic 28 21:45 hello.txt
+-rwxrwxr-x  1 gian gian   140 may 25 23:13 readme.txt
+-rwxrwxr-x  1 gian gian    65 dic 28 21:45 secondScript.sh
+-rwxrwxr-x  1 gian gian   532 dic 28 21:45 stdin-stdout-stderr.txt
+-rwxrwxr-x  1 gian gian     0 may 25 23:13 sucess_and_error.txt
+-rwxrwxr-x  1 gian gian   878 may 25 23:13 sucess_only.txt
+-rwxrwxr-x  1 gian gian   878 may 25 23:13 sucess.txt
+drwxrwxr-x  3 gian gian  4096 dic 28 21:45 temp

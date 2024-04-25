@@ -1,0 +1,2 @@
+Esto lo enviamos a este archivo 
+Aqui le agregamos esta info al file.txt 

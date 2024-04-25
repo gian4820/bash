@@ -1,0 +1,20 @@
+STANDAR-INPUT 0 
+stdin:
+located in: /dev/stdin
+
+STANDAR-OUTPUT 1
+stdout:
+located in: /dev/stdout
+Por ej el comando cat, lo que hace es mandar el archivo al stdout
+
+
+
+STANDAR-ERROR 2
+stderr:
+located in: /dev/stderr
+Por ej, si tipeamos el comando cat /etc/path_q_no_existe, el stderr se encarga de mostrar el error
+
+
+Los numeros 0,1,2 se pueden utilizar en comandos por ej:
+Si queremos mostrar el output a un archivo le ponemos 1, sino los errores de un comando con el 2 podemos hacer asi:
+cat /etc/noexist 1> algo.txt 2> algo_err.txt
